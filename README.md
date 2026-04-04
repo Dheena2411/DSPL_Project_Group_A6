@@ -15,10 +15,10 @@ The goal is to support Hotel Chain A in reducing revenue loss through data-drive
 
 ```bash
 notebooks/
-├── data_preprocessing/   # Data cleaning and preparation
-├── initial_analysis/     # Summary statistics & pattern identification
-├── eda/                 # Exploratory Data Analysis (train, validation, test)
-├── modelling/           # Machine learning models
+├── 01_data_preprocessing/   # Data cleaning and preparation
+├── 02_initial_analysis/     # Summary statistics & pattern identification
+├── 03_eda/                 # Exploratory Data Analysis (train, validation, test)
+├── 04_modelling/           # Machine learning models
 
 data/
 ├── Raw/
