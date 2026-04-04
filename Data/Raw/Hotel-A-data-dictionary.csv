@@ -1,0 +1,25 @@
+﻿Data Field,Description
+Reservation-id,A unique booking id
+Gender,Gender of the reservation person
+Age,Age of the reservation person. Age is varying from 18 -- 70
+Ethnicity,"Ethnicity of the reservation person. This field takes one of the following ethnicities: Latino, African American, Asian American and Caucasian"
+Educational_Level,"Educational level of the reservation person. This field takes one of the following educational level; Mid-School, High-School, College and Grad"
+Income,"Income of the reservation person. This field takes one of the following: <25K, 25K – 50K,50K – 100K and >100K "
+Country_region,"Country region of the reservation person. This field takes one of the following: North, South, East and West"
+Hotel_Type,"Hotel type of the reservation; i.e City Hotels, Airport Hotels and Resorts"
+Expected_checkin,Expected check-in date
+Expected_checkout,Expected checkout date
+Booking_date,Reservation date
+Adults,Number of adults in the reservation. Note that one room can accommodate up to 5 people including children (Except babies)
+Children,Number of children in the reservation
+Babies,Number of babies in the reservation
+Meal_Type,"Selected meal type. Meal type can be one of the following: Bed and Break first (BB), Half-board (HB) or Full Board (FB)"
+Visted_Previously,Have previous reservation 
+Previous_Cancellations,Whether the travel cancel any reservations
+Deposit_type,"Did traveler pay refundable full payment, non-refundable full payment or not"
+Booking_channel,"Field tell the way the traveler booked the reservation.  It takes one of the following; Direct (i.e from by direct call to the hotel or from hotel website), Online (From any Third party website or using any agent"
+Required_Car_Parking,Any car parking reservations need
+Reservation_Status,"What is the final status of the reservation. Use the check-in as class 1, cancel as class 2 and no-show as class 3 ( use numeric value 1, 2 and 3)"
+Use_Promotion,Did travel use any promo codes/discounts for the reservations
+Discount_Rate,Discount rate if any
+Room_Rate,Room rate for a room per night
