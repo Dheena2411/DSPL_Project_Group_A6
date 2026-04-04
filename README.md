@@ -47,7 +47,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 * Visualisations are included in the notebooks and final report (not stored separately in the repository)
 
-## 👥 Team – Group A6
+## Team - Group A6
 
 * Dheena Azeez
 * Sumaiya Mohammed
