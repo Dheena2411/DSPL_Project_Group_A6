@@ -15,14 +15,15 @@ The goal is to support Hotel Chain A in reducing revenue loss through data-drive
 
 ```bash
 notebooks/
-├── 01_data_preprocessing/   # Data cleaning and preparation
-├── 02_initial_analysis/     # Summary statistics & pattern identification
+├── 01_data_preprocessing/  # Data cleaning and preparation
+├── 02_initial_analysis/    # Summary statistics & pattern identification
 ├── 03_eda/                 # Exploratory Data Analysis (train, validation, test)
 ├── 04_modelling/           # Machine learning models
 
 data/
 ├── Raw/
-├── Cleaned/                  # Dataset files
+├── Cleaned/                # Dataset files
+├── outputs/                # Saved figures and results                 
 README.md
 ```
 
@@ -44,15 +45,16 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 ## Notes
-
-* Visualisations are included in the notebooks and final report (not stored separately in the repository)
+* The dataset was provided as part of the coursework project
+* This repository is for academic submission purposes
+* The repository was not modified after the submission deadline
 
 ## Team - Group A6
 
-* Dheena Azeez
-* Sumaiya Mohammed
-* Dilushi De Silva
-* Malki Paris
-* Sayuni Fernando
+* Dheena Azeez – Data Scientist
+* Sumaiya Mohammed – Data Engineer
+* Dilushi De Silva – Data Analyst
+* Malki Paris – Model Evaluation and Evaluation Analyst
+* Sayuni Fernando – Machine Learning Engineer
 
 
