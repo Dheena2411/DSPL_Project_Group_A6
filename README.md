@@ -14,17 +14,19 @@ The goal is to support Hotel Chain A in reducing revenue loss through data-drive
 ## Repository Structure
 
 ```bash
-notebooks/
-├── 01_data_preprocessing/  # Data cleaning and preparation
-├── 02_initial_analysis/    # Summary statistics & pattern identification
-├── 03_eda/                 # Exploratory Data Analysis (train, validation, test)
-├── 04_modelling/           # Machine learning models
+.
+├──notebooks/
+│ ├── data_preprocessing/ # Data cleaning and preparation
+│ ├── initial_analysis/ # Summary statistics and pattern identification
+│ ├── eda/ # Exploratory Data Analysis
+│ ├── modelling/ # Machine learning models
+│
+├──data/
+  ├── Raw/
+  ├── Cleaned/                # Dataset files
 
-data/
-├── Raw/
-├── Cleaned/                # Dataset files
-├── outputs/                # Saved figures and results                 
-README.md
+├──outputs/                # Saved figures and results                 
+└── README.md
 ```
 
 
