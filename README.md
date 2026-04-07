@@ -38,7 +38,8 @@ The goal is to support Hotel Chain A in reducing revenue loss through data-drive
 1. Install required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+Install dependencies:
+pip install -r requirements.txt
 ```
 
 2. Run notebooks in order:
