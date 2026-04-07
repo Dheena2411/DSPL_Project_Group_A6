@@ -28,7 +28,8 @@ The goal is to support Hotel Chain A in reducing revenue loss through data-drive
 ├──outputs/                # Saved figures and results
 │ ├── initial_analysis/ 
 │ ├── eda/ 
-│ ├── modelling/                 
+│ ├── modelling/
+├──requirements/                
 └── README.md
 ```
 
